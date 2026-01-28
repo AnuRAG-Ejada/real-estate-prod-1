@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <div style={{ padding: 40 }}>
-      <h1>Welcome to your Real Estate App</h1>
-      <p>The homepage is loading successfully!</p>
-    </div>
+    <main style={{ padding: 24 }}>
+      <h1>Welcome</h1>
+      <p>Homepage is rendering locally.</p>
+    </main>
   );
 }
